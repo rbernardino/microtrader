@@ -11,3 +11,5 @@ shippable
 .settings
 *.iml
 audit-db*
+*/bin
+*/package-lock.json
